@@ -1,4 +1,8 @@
 <p align="center">
+Archived. Go to main, especially if you'd rather plan an open game instead of a good game.
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="resources/images/OpenFrontLogoDark.svg">
     <source media="(prefers-color-scheme: light)" srcset="resources/images/OpenFrontLogo.svg">
